@@ -7,3 +7,6 @@ Abaixo estão as imagens do website.
 
 Página Principal 
 ![rewiewgames](https://github.com/AnaliceMM4/Projeto-RewiewGames/assets/62485958/ffec04df-03bf-4980-92c0-e33c277ef0eb)
+
+![paginaprincipalrewiewgames2](https://github.com/AnaliceMM4/Projeto-RewiewGames/assets/62485958/32184f83-5090-4852-b206-e33ff3c4f005)
+
